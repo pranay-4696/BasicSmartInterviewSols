@@ -1,1 +1,1 @@
-# leetcodeDSA
+# HACKERRANK SOLUTIONS 
