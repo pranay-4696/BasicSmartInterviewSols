@@ -1,1 +1,5 @@
+#SMART INTERVIEW BASIC SOLUTIONS
 # HACKERRANK SOLUTIONS 
+in JAVA PROGRAMMING LANGUAGE
+-->
+https://github.com/pranay-4696/BasicSmartInterviewSols/
